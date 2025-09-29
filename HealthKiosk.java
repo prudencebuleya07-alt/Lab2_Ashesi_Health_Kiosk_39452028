@@ -1,4 +1,4 @@
-/ASHESI HEALTH KIOSK
+//ASHESI HEALTH KIOSK
 
 //Task 0-Project setup
 import java.util.Scanner;
